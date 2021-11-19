@@ -16,6 +16,7 @@
 		639E52CC2747A08A006E1425 /* PassDatawithSegueTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639E52CB2747A08A006E1425 /* PassDatawithSegueTests.swift */; };
 		639E52D62747A08A006E1425 /* PassDatawithSegueUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639E52D52747A08A006E1425 /* PassDatawithSegueUITests.swift */; };
 		639E52D82747A08A006E1425 /* PassDatawithSegueUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639E52D72747A08A006E1425 /* PassDatawithSegueUITestsLaunchTests.swift */; };
+		639E52E52747A6D1006E1425 /* DisplayResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639E52E42747A6D1006E1425 /* DisplayResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		639E52D12747A08A006E1425 /* PassDatawithSegueUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PassDatawithSegueUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		639E52D52747A08A006E1425 /* PassDatawithSegueUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassDatawithSegueUITests.swift; sourceTree = "<group>"; };
 		639E52D72747A08A006E1425 /* PassDatawithSegueUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassDatawithSegueUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		639E52E42747A6D1006E1425 /* DisplayResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				639E52B42747A089006E1425 /* AppDelegate.swift */,
 				639E52B62747A089006E1425 /* SceneDelegate.swift */,
 				639E52B82747A089006E1425 /* ViewController.swift */,
+				639E52E42747A6D1006E1425 /* DisplayResultViewController.swift */,
 				639E52BA2747A089006E1425 /* Main.storyboard */,
 				639E52BD2747A08A006E1425 /* Assets.xcassets */,
 				639E52BF2747A08A006E1425 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				639E52E52747A6D1006E1425 /* DisplayResultViewController.swift in Sources */,
 				639E52B92747A089006E1425 /* ViewController.swift in Sources */,
 				639E52B52747A089006E1425 /* AppDelegate.swift in Sources */,
 				639E52B72747A089006E1425 /* SceneDelegate.swift in Sources */,
